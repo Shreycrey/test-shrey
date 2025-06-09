@@ -1,0 +1,6 @@
+id: test-shrey
+name: Test Shrey
+image: prathamgupta36/ctf-archive:1.9
+
+modules:
+  - id: utctf2024
