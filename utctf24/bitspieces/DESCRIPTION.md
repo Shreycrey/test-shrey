@@ -1,4 +1,4 @@
-RSA with three ciphertexts and three moduli
+RSA with three moduli
 
 ---
 **Author:** jocelyn
