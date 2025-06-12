@@ -1,4 +1,4 @@
-RSA with three moduli
+BLS signature forgery challenge.
 
 ---
-**Author:** jocelyn
+**Author:** Jeriah
