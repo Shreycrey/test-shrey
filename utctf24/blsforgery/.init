@@ -1,1 +1,3 @@
-ln -s /flag /challenge/flag.txt
+#!/bin/bash
+
+ln -sf /flag /challenge/flag.txt 
