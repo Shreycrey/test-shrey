@@ -6,4 +6,3 @@ challenges:
     name: FORENSICS - 50 - A Very Professional Website
   - id: cryptordle
     name: CRYPTO - cryptordle
-    image: prathamgupta36/utctf24-cryptordle
