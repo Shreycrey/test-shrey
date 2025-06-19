@@ -1,3 +1,3 @@
-I wrote an amazing encryption service. It is definitely flawless, so I'll encrypt the flag and give it to you.
----
+**Just guess the word in 6 tries. What do you mean it's hard?
+**---
 **Author:** oops
