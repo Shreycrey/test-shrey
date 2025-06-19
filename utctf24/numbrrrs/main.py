@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/exec-suid -- /usr/bin/python3
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 from Crypto.Random import random
