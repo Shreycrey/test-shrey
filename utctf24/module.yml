@@ -6,3 +6,5 @@ challenges:
     name: FORENSICS - 50 - A Very Professional Website
   - id: cryptordle
     name: CRYPTO - cryptordle
+  - id: morse
+    name: CRYPTO - simple morse
