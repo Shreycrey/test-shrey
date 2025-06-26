@@ -5,7 +5,7 @@ import os
 import sys
 
 # SHA-256 hash of the correct flag (precomputed)
-correct_flag_hash = "a9fd2b997fc3e8a782648cec6ea01996044fd8bf8d7966a1840ac73a6a5b004f" 
+correct_flag_hash = "1e836b225ec5519b22eb7487f9138d4ff0924a772124da895f29e0e625ee1456" 
 
 def get_user_flag():
     return input("Enter the flag: ").strip()
