@@ -2,7 +2,25 @@ id: utctf2024
 name: UTCTF 2024
 
 challenges:
-  - id: git
-    name: FORENSICS - 50 - A Very Professional Website
+  - id: babyrsa
+    name: CRYPTO - baby rsa
+  - id: bitspieces
+    name: CRYPTO - bits and pieces
+  - id: blsforgery
+    name: CRYPTO - blsforgery
   - id: cryptordle
-    name: CRYPTO - cryptordle
+    name: CRYPTO - cryptordle  
+  - id: longcaesar
+    name: CRYPTO - long caesar
+  - id: numbrrrs
+    name: CRYPTO - numbers go brrr  
+  - id: numbrrrs2
+    name: CRYPTO - numbers go brrr 2 
+  - id: morse
+    name: CRYPTO - simple morse
+  - id: simplesig
+    name: CRYPTO - simple signature
+  - id: git
+    name: FORENSICS - git
+  - id: insanitycheck
+    name: FORENSICS - insanity check reimagined
