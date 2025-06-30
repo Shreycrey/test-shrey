@@ -24,3 +24,11 @@ challenges:
     name: FORENSICS - git
   - id: insanitycheck
     name: FORENSICS - insanity check reimagined
+  - id: keyboard
+    name: FORENSICS - keyboard
+  - id: OSINT2
+    name: FORENSICS - OSINT
+  - id: wizardry
+    name: FORENSICS - wizardry
+  - id: ccv
+    name: MISC - cvv
