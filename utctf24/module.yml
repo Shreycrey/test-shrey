@@ -26,7 +26,7 @@ challenges:
     name: FORENSICS - insanity check reimagined
   - id: keyboard
     name: FORENSICS - keyboard
-  - id: OSINT2
+  - id: osint2
     name: FORENSICS - OSINT
   - id: wizardry
     name: FORENSICS - wizardry
