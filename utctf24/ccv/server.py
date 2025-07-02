@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/exec-suid -- /usr/bin/python3
 from app import generate_good_card, generate_bad_card
 import random
 
