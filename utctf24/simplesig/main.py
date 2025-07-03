@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/exec-suid -- /usr/bin/python3
 from Crypto.PublicKey import RSA
 
 key = RSA.generate(2048)
@@ -37,6 +37,7 @@ if (x, s) in admit:
     exit(0)
 
 if (pow(s, key.e, key.n) - (x + i)) % key.n == 0:
-    print("Congrats! Here is the flag: utflag{a1m05t_t3xtb00k_3x3rc153}")
+    flag = open('/flag', 'r').read();
+    print("Congrats! Here is the flag: ", flag)
 else:
     print('Invalid signature.')
